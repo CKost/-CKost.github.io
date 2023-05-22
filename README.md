@@ -1,20 +1,21 @@
 # Tags
-Andrew
 
-Keith
+1. Andrew
 
-Tyler
+2. Keith
 
-Curtis
+3. Tyler
 
-Daniel
+4. Curtis
 
-Emily
+5. Daniel
 
-James
+6. Emily
 
-Lane
+7. James
 
-Tom
+8. Lane
 
-DJ
+9. Tom
+
+10. DJ
